@@ -2,3 +2,12 @@ venv/
 .env
 __pycache__/
 *.pyc
+
+Lib/
+Scripts/
+etc/
+share/
+pyenv.cfg
+venv/
+.env
+__pycache__/
