@@ -8,7 +8,7 @@
 ## 📌 Executive Summary
 Small and medium-sized enterprises (SMEs) frequently fail not due to lack of market demand, but due to liquidity blindspots and trapped working capital. Standard bookkeeping dashboards show historical aggregates ("what happened"), but lack the causal reasoning to explain **why it happened**, **what happens under stress**, or **what explicit operational countermeasure to take**.
 
-PulseLedger solves this by coupling **deterministic financial analytics (Pandas)**—eliminating numerical hallucinations—with **Google Gemini diagnostic reasoning** to deliver end-to-end financial intelligence.
+PulseLedger solves this by coupling **deterministic financial analytics **—eliminating numerical hallucinations—with , diagnostic reasoning** to deliver end-to-end financial intelligence.
 
 ---
 
