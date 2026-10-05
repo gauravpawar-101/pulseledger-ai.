@@ -1,0 +1,7 @@
+invoice_id,customer,amount,due_days_ago,status
+INV-101,Apex Traders,450000,48,Overdue
+INV-102,Delta Corp,820000,52,Overdue
+INV-103,Global Logistics,180000,12,Paid
+INV-104,Delta Corp,430000,45,Overdue
+INV-105,Metro Retail,210000,5,Pending
+INV-106,Apex Traders,390000,38,Overdue
